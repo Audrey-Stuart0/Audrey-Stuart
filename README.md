@@ -8,19 +8,21 @@
 <a href="#skills">Go to Skills</a> | 
 <hr>
 
-A multicultural data analyst who leverages quantitative methods and data visualization to identify trends and outliers, driving targeted business solutions. I seek opportunities to work in high-performance teams where data-driven insights lead to strategic impact and rapid return on investment.
+I'm a fourth-year Business Analytics and Psychology student at the University of Denver, currently working as a BI Developer at Viega. I have experience with Python, SQL, R, Snowflake, Power BI, Tableau, SAP Analytics Cloud, and Matillion. I'm passionate about solving problems with data and always eager to learn new tools and encounter different challenges. Give me a challenge and I would love to tackle it!
 
 <a name="education"></a>
 <hr>
 
 ## Education
 ### University of Denver, Daniels College of Business  
-**Bachelor of Science Business Administration – Business Information and Analytics**  
+**Bachelor of Science – Business Information and Analytics**  
 *Expected Graduation: June 2025*  
 
 <ul>
   <li><b>Dean's List</b>: Recognition for outstanding academic achievement.</li>
-  <li><b>1st place in the 2024 Inclusive Excellence Case Competition</b>: Awarded for exceptional teamwork and problem-solving.</li>
+  <li><b>Tome Scholarship: Given for leadership initiative and academic achievement </li>
+  <li><b>Brandenborg Endowed Scholarship: Given for academic achievement</li>
+  <li><b>Sepic Family Scholarship: Given for academic achievement</li>
 </ul>
 
 ➡️ **For more details, see my coursework and achievements:**  
@@ -30,7 +32,7 @@ A multicultural data analyst who leverages quantitative methods and data visuali
 <hr>
 
 ## Projects
-<p>Here are some of my projects throughout the courses:</p>
+<p>Here are some of my projects I'v completed throughout my courses:</p>
 <ul>
   <li><a href="https://github.com/MouyseangAn/Sephora-Website-Data-Analysis-Project">Project 1: Sephora Data Analysis</a></li>
   <li><a href="https://github.com/MouyseangAn/NHL-for-Newbies-Blog">Project 2: From Newbie to Know-it-all: The Hockey Game</a></li>
@@ -43,7 +45,7 @@ A multicultural data analyst who leverages quantitative methods and data visuali
 <hr>
 
 ## Jobs and Internships
-<i>See my [LinkedIn](https://www.linkedin.com/in/mouyseangan03/)</i>
+<i>See my [LinkedIn](https://www.linkedin.com/in/audreystuart-/)</i>
 
 <a name="skills"></a>
 <hr>
@@ -63,6 +65,8 @@ A multicultural data analyst who leverages quantitative methods and data visuali
         <li>Python</li>
         <li>SAP</li>
         <li>Power BI</li>
+        <li>Matillion</li>
+        <li>Snowflake</li>
         <li>Microsoft Access</li>
         <li>Microsoft SQL Server Management Studio</li>
         <li>Microsoft Visual Studio</li>
@@ -80,7 +84,6 @@ A multicultural data analyst who leverages quantitative methods and data visuali
         <li>Collaboration</li>
         <li>Adaptability</li>
         <li>Project Management</li>
-        <li>Attention to Detail</li>
       </ul>
     </td>
   </tr>
