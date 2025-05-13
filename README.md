@@ -34,11 +34,7 @@ I'm a fourth-year Business Analytics and Psychology student at the University of
 ## Projects
 <p>Here are some of my projects I'v completed throughout my courses:</p>
 <ul>
-  <li><a href="https://github.com/MouyseangAn/Sephora-Website-Data-Analysis-Project">Project 1: Sephora Data Analysis</a></li>
-  <li><a href="https://github.com/MouyseangAn/NHL-for-Newbies-Blog">Project 2: From Newbie to Know-it-all: The Hockey Game</a></li>
-  <li><a href="https://github.com/MouyseangAn/Outfit-Color-Suggestion">Project 3: Outfit Color Suggestion</a></li>
-  <li><a href="https://github.com/MouyseangAn/Jewelry-Databases-Project">Project 4: Jewelry Database Project</a></li>
-  <li><a href="https://github.com/MouyseangAn/Jewelry-Data-Warehouse-Project">Project 5: Jewelry Data Warehouse Project</a></li>
+  <li><a href="https://github.com/Audrey-Stuart0/Optimization-Project/tree/main">Project 1: Fantasy Football Team Selection Optimization</a></li>
 </ul>
 
 <a name="profExp"></a>
