@@ -16,6 +16,7 @@ I'm a fourth-year Business Analytics and Psychology student at the University of
 ## Education
 ### University of Denver, Daniels College of Business  
 **Bachelor of Science – Business Information and Analytics**  
+*Major GPA: 3.92*  
 *Expected Graduation: June 2025*  
 
 <ul>
@@ -25,8 +26,8 @@ I'm a fourth-year Business Analytics and Psychology student at the University of
   <li><b>Sepic Family Scholarship: Given for academic achievement</li>
 </ul>
 
-➡️ **For more details, see my coursework and achievements:**  
-<a href="https://github.com/MouyseangAn/Education/tree/main" target="_blank">Education Details</a>
+<!--➡️ **For more details, see my coursework and achievements:**  
+a href="https://github.com/MouyseangAn/Education/tree/main" target="_blank">Education Details</a>-->
 
 <a name="Projects"></a>
 <hr>
