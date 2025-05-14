@@ -33,10 +33,12 @@ a href="https://github.com/MouyseangAn/Education/tree/main" target="_blank">Educ
 <hr>
 
 ## Projects
-<p>Here are some of my projects I'v completed throughout my courses:</p>
+<p>Here are some of my projects I've completed throughout my courses:</p>
 <ul>
   <li><a href="https://github.com/Audrey-Stuart0/Optimization-Project/tree/main">Project 1: Fantasy Football Team Selection Optimization</a></li>
   <li><a href="https://github.com/Audrey-Stuart0/Text-Analysis-Project">Project 2: Text Analysis</a></li>
+  <li><a href="https://github.com/Audrey-Stuart0/Housing-PBI-Dashboard/tree/main">Project 3: Housing Vacancies</a></li>
+
 </ul>
 
 <a name="profExp"></a>
